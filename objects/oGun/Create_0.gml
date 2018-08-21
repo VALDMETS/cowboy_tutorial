@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+// Gun physics setup
 
-firingdelay = 0;
 recoil = 0;
+shotFinished = true;

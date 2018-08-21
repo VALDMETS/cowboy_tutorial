@@ -1,16 +1,13 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 //Gun Arm Coding
 x = oPlayer2.x-5;
 y = oPlayer2.y-15;
 
 image_angle = point_direction(x,y,mouse_x,mouse_y);
 
-firingdelay = firingdelay - 1;
 recoil = max(0,recoil - 1);
+if (mouse_check_button_released(mb_left)) shotFinished = true;
 
-if (mouse_check_button(mb_left)) && (firingdelay < 0)
+if (mouse_check_button(mb_left)) && shotFinished == true 
 {
 	recoil = 4;
 	firingdelay = 20;
@@ -20,6 +17,7 @@ if (mouse_check_button(mb_left)) && (firingdelay < 0)
 		direction = other.image_angle + random_range(-3,3);
 		image_angle = direction;
 	}	
+	shotFinished = false;
 }
 
 x = x - lengthdir_x(recoil,image_angle);
