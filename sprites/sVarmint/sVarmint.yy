@@ -1,5 +1,5 @@
 {
-    "id": "af20b8a1-a296-42e7-8afd-27d881ec1b6a",
+    "id": "3e0363d1-e4db-4c61-8671-9500c5c39bb4",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "sVarmint",
@@ -8,7 +8,7 @@
     "VTile": false,
     "bbox_bottom": 62,
     "bbox_left": 24,
-    "bbox_right": 51,
+    "bbox_right": 52,
     "bbox_top": 50,
     "bboxmode": 2,
     "colkind": 1,
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "a0a44c11-a58a-4006-ae9f-efc16a26170e",
+            "id": "9dc54a33-55db-49d4-abee-486b6b745745",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "af20b8a1-a296-42e7-8afd-27d881ec1b6a",
+            "SpriteId": "3e0363d1-e4db-4c61-8671-9500c5c39bb4",
             "compositeImage": {
-                "id": "1df4df34-409b-4ebf-9e5c-e50a807730da",
+                "id": "a9d60b5f-3755-4a5f-8530-07d34d4e5fdd",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "a0a44c11-a58a-4006-ae9f-efc16a26170e",
+                "FrameId": "9dc54a33-55db-49d4-abee-486b6b745745",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "9a80608c-63fe-40e7-b4e1-6a9f1d8dde48",
+                    "id": "c8a690e8-4470-4e59-991b-5b5dd752a183",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "a0a44c11-a58a-4006-ae9f-efc16a26170e",
-                    "LayerId": "dd80d5f2-ad55-40bd-94c3-3f4e7186fde4"
+                    "FrameId": "9dc54a33-55db-49d4-abee-486b6b745745",
+                    "LayerId": "f0caf133-95ce-4766-a09f-e5281c9799c9"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 64,
     "layers": [
         {
-            "id": "dd80d5f2-ad55-40bd-94c3-3f4e7186fde4",
+            "id": "f0caf133-95ce-4766-a09f-e5281c9799c9",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "af20b8a1-a296-42e7-8afd-27d881ec1b6a",
+            "SpriteId": "3e0363d1-e4db-4c61-8671-9500c5c39bb4",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",

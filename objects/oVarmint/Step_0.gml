@@ -1,3 +1,7 @@
+/// @description Insert description here
+// You can write your code in this editor
+//Ben has a potty mouth when he writes the code.
+
 vsp = vsp + grv;
 
 //Horizontal Collisions
@@ -18,7 +22,8 @@ if (place_meeting(x,y+vsp,oWall01))
 	while (!place_meeting(x,y+sign(vsp),oWall01))
 	{
 		y = y + sign(vsp);
-	}		vsp = 0;	
+	}
+	vsp = 0;	
 }
 
 
@@ -37,9 +42,8 @@ else
 	if (hsp == 0) {
 		sprite_index = sVarmint;
 	}
-	else 
-	{
-			sprite_index = sVarmintWalk;
+	else {
+		sprite_index = sVarmintWalk;
 	}
 }
 

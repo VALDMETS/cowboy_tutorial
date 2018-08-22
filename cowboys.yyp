@@ -119,6 +119,22 @@
             }
         },
         {
+            "Key": "3c1d225e-a7c7-4295-92d8-3f328b03cdc6",
+            "Value": {
+                "id": "41d8b8f8-fa25-431d-a443-c879952e5610",
+                "resourcePath": "sprites\\sVarmintWalk\\sVarmintWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3e0363d1-e4db-4c61-8671-9500c5c39bb4",
+            "Value": {
+                "id": "ebcb23aa-786f-4cd3-8b15-beb033a66ebe",
+                "resourcePath": "sprites\\sVarmint\\sVarmint.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "413a49e4-8f09-41ba-9879-9b07bee514c3",
             "Value": {
                 "id": "1a500e04-34dd-4611-9a98-e846197cedf8",
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "89d529d7-b064-49c4-9dc2-df4464682e46",
+            "Value": {
+                "id": "674276b0-eeca-4ef4-85e3-d1503cb66de0",
+                "resourcePath": "sprites\\sVarmintDead\\sVarmintDead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "5943917c-6999-46ef-8e43-eab4e76fd313",
@@ -367,6 +391,14 @@
             }
         },
         {
+            "Key": "ca5d32a9-5dd1-4c6e-ac35-fc0a693530d9",
+            "Value": {
+                "id": "8b7c9a39-8f05-418a-a5ca-cb6652596098",
+                "resourcePath": "objects\\oVarmintDead\\oVarmintDead.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "1ab5a696-b210-43f5-8ef9-7c9cc65907ed",
@@ -444,6 +476,14 @@
                 "id": "595d0825-6030-41a8-b609-3db696193bc6",
                 "resourcePath": "views\\eb4bc8d5-60c4-4c5e-97ac-7a6a1428d31b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "edb026bd-9b90-44cd-a94b-4f6c0eabe618",
+            "Value": {
+                "id": "aa6c61fe-1ad7-47bd-9ac7-3acfd24c0483",
+                "resourcePath": "objects\\oVarmint\\oVarmint.yy",
+                "resourceType": "GMObject"
             }
         },
         {
