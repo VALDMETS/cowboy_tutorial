@@ -23,7 +23,7 @@ if (mouse_check_button(mb_left)) && shotFinished == true
 x = x - lengthdir_x(recoil,image_angle);
 y = y - lengthdir_y(recoil,image_angle);
 
-if (image_angle > 90) && (image_angle < 270)
+if (image_angle > 90) && (image_angle < 250)
 {
 	image_yscale = -1;
 }
